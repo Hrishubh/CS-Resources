@@ -4,12 +4,12 @@ A collection of all the essential and amazing resources in a proper sequence for
 
 >>>| Domain              | File Address                                        |
 >>>| ------------------- | --------------------------------------------------- |
->>>| Android Development | [Link](./resources/Android%20Development/README.md) |
->>>| Blockchain          | [Link](./resources/Blockchain/README.md)            |
->>>| DSA                 | [Link](./resources/DSA/README.md)                   |
->>>| Flutter             | [Link](./resources/Flutter/README.md)               |
->>>| ML/AI               | [Link](./resources/ML%20AI/README.md)               |
->>>| Open Source         | [Link](./resources/Open%20Source/README.md)         |
->>>| Web Development     | [Link](./resources/Web%20Development/README.md)     |
->>>| AR/VR               | [Link](./resources/AR%20VR/README.md)               |
->>>| Cloud               | [Link](./resources/Cloud/README.md)                 |
+>>>| Android Development | [Link](./resources/Android%20Development)           |
+>>>| Blockchain          | [Link](./resources/Blockchain)                      |
+>>>| DSA                 | [Link](./resources/DSA)                             |
+>>>| Flutter             | [Link](./resources/Flutter)                         |
+>>>| ML/AI               | [Link](./resources/ML%20AI)                         |
+>>>| Open Source         | [Link](./resources/Open%20Source)                   |
+>>>| Web Development     | [Link](./resources/Web%20Development)               |
+>>>| AR/VR               | [Link](./resources/AR%20VR)                         |
+>>>| Cloud               | [Link](./resources/Cloud)                           |
