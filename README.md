@@ -1,6 +1,6 @@
 # Resources for Computer Science
 
-A collection of all the essential and amazing resources in a proper sequence for various Computer Science and Software Development Domains in MD and Google Doc Format.
+A collection of resources and step by step guides to learn different tools or technologies.
 
 >>>| Domain              | File Address                                        |
 >>>| ------------------- | --------------------------------------------------- |
